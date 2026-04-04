@@ -112,3 +112,10 @@ This project is intended as a **decision-support tool** and should not be used a
 * Deployment as a web-based healthcare application
 * Improved model explainability (SHAP, LIME)
 
+
+## Contributing
+Feel free to fork this repo and improve the model or add new features!
+
+
+## License
+This project is open-source and available under the MIT License.
