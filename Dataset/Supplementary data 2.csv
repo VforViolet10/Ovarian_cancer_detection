@@ -1,0 +1,48 @@
+,Biomarker,Biomarker Name
+0,MPV,Mean platelet volume
+1,BASO#,Basophil Cell Count
+2,PHOS,phosphorus
+3,GLU.,glucose
+4,CA72-4,Carbohydrate antigen 72-4
+5,K,kalium
+6,AST,Aspartate aminotransferase
+7,BASO%,Basophil Cell ratio
+8,Mg,magnesium
+9,CL,chlorine
+10,CEA,Carcinoembryonic antigen
+11,EO#,eosinophil count
+12,CA19-9,Carbohydrate antigen 19-9
+13,ALB,albumin
+14,IBIL,Indirect bilirubin
+15,GGT,Gama glutamyltransferasey
+16,MCH,Mean corpuscular hemoglubin
+17,GLO,globulin
+18,ALT,Alanine aminotransferase
+19,DBIL,direct bilirubin
+20,RDW,red blood cell distribution width
+21,PDW,Platelet distribution width
+22,CREA,creatinine
+23,AFP,alpha-fetoprotein
+24,HGB,hemoglobin
+25,Na,Natrium
+26,HE4,human epididymis protein 4
+27,LYM#,lymphocyte count
+28,CA125,Carbohydrate antigen 125
+29,BUN,blood urea nitrogen
+30,LYM%,lymphocyte ratio
+31,Ca,calcium
+32,AG,Anion gap
+33,MONO#,mononuclear cell count
+34,PLT,platelet count
+35,NEU,neutrophil ratio
+36,EO%,eosinophil ratio
+37,TP,Total protein
+38,UA,urie acid
+39,RBC,Red blood cell count
+40,PCT,thrombocytocrit
+41,CO2CP,carban dioxide-combining Power
+42,TBIL,total bilirubin
+43,HCT,hematocrit
+44,MONO%,monocyte ratio
+45,MCV,mean corpuscular volume
+46,ALP,Alkaline phosphatase
