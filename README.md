@@ -1,6 +1,5 @@
 # Ovarian_cancer_detection
 
-# Early Detection of Ovarian Cancer using Machine Learning
 
 ## Overview
 
