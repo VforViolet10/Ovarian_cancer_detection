@@ -4,6 +4,11 @@ A machine learning project focused on predicting ovarian cancer from structured 
 
 > ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. It is not a substitute for professional medical diagnosis.
 
+## 🌐 Live Demo
+
+**[🚀 Launch Ovarian Cancer Risk Assessment](https://plane-median-62820162.figma.site/)**
+
+
 ## 🎯 Objectives
 
 * Analyze and preprocess ovarian cancer datasets
